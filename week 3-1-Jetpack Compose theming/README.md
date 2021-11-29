@@ -1,8 +1,3 @@
-# ComposeFest2021
-2021 DevFest ComposeFest 코드랩 Repo 입니다
-본 폴더를 Android Studio를 이용해서 열어주세요.
-작업을 완료하고, push 해주세요.
-
 # Jetpack Compose Theming Codelab
 
 This folder contains the source code for the [Jetpack Compose Theming codelab](https://developer.android.com/codelabs/jetpack-compose-theming).
